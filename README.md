@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Batch-6DB33F?style=flat-square&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square" />
   <img src="https://img.shields.io/badge/QueryDSL-0769AD?style=flat-square" />
 </p>
@@ -30,6 +31,7 @@
 
 | Project | Description | Contribution |
 | --- | --- | --- |
+| [Settlement Batch Performance](https://github.com/wuho98/settlement-batch-performance) | 대량 정산 배치 조회 성능 비교 | Spring Batch Zero Offset Reader 구현, 100만 건 성능·정합성 검증 |
 | [Error Alert](https://github.com/wuho98/error-alert-portfolio) | 오류 급증 감지 및 Webhook 알림 서비스 | Redis 원자 집계·중복 처리 방지, 부하 테스트 |
 | [PlayOn](https://github.com/prgrms-be-devcourse/NBE9-11-final-Team02) | 생활 스포츠 매칭 플랫폼 | 매칭 기능, 분산 락, 조회 성능 개선 |
 | [Book Community](https://github.com/prgrms-be-devcourse/NBE9-11-3-Team10-BE) | 도서 판매 및 피드 커뮤니티 | 피드·댓글·좋아요, Kotlin 전환, 쿼리 개선 |
