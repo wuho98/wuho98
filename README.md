@@ -1,4 +1,4 @@
-# Wooho Cha 👋
+# 차우호 👋
 
 🐤 테스트와 지표로 문제를 해결하는 Backend Developer
 
